@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<!-- 默认缺省配置 -->
+	<default-config>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql:///estore</property>
+		<property name="user">root</property>
+		<property name="password">123456</property>
+	</default-config>
+	
+	<!-- 其他配置,例如oracle -->
+	<name-config name="oracle">
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql:///estore</property>
+		<property name="user">root</property>
+		<property name="password">123456</property>
+	</name-config>
+</c3p0-config>

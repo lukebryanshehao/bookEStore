@@ -1,0 +1,132 @@
+10
+
+dir
+3
+svn://192.168.14.84/crm/crm/WebRoot/html
+svn://192.168.14.84/crm
+
+
+
+2016-12-02T10:39:23.978654Z
+2
+xwl
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7b727e16-c937-7c4e-ae49-a4c67220c3ac
+
+classesm
+dir
+
+dep
+dir
+
+dept
+dir
+
+employee
+dir
+
+frame
+dir
+
+frame.html
+file
+
+
+
+
+2016-12-02T10:50:20.065000Z
+8c34f121e32f4df20c717c8acf31860b
+2016-12-02T10:39:23.978654Z
+2
+xwl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+955
+
+lesson
+dir
+
+login.html
+file
+
+
+
+
+2016-12-02T10:50:20.002000Z
+7143464c031bcf14a5e183aea83ac379
+2016-12-02T10:39:23.978654Z
+2
+xwl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1559
+
+position
+dir
+
+privilege
+dir
+
+remove
+dir
+
+role
+dir
+
+staff
+dir
+
+user
+dir
+
